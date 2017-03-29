@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_9cbefa83c4e966138f5eeed8ee6d7162576f3fb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_4f3a031eaf15c57e606ec01a7d3d0c115d2e9d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_e655de1255c642277e4631f8eba59dabc5f10c50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_1300ec9778f32e55758a19bf50fd0da229762ea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8754d1d3b2d88effd2b6d16b969897215c6ff12f">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ddf0e0ad87ca0a14a3be7ad54cba7548fd68a8ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_954374caeeedc3ac069c0bd08deb34880327c901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_d88aca85465483c96ea6b939593425000dfa4656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_ddfc2202bb25eb7f470311852e398b0f3114f835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_3a9cd87a5348556cbe0bccf874faa80c01934609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a67baa1cc2167b0498c8fa8d280cbcc35a1e0670">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88a86cf153a96d29f782b83da8189ac1b67da62c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_80d2f0634b6c1cb54c6d87a054418f21ddb29840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Emilio\AndroidStudioProjects\MyRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_c059280d481b4003a8b25181f54af3d4c89403ae\classes.dex" />
+    </item>
+
+</items>
