@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:4:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richi\.android\build-cache\a986073ea537cb6d3ce8858472915d86599f6f39\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richi\.android\build-cache\4762901ed42dcb2f5959058dc0bf69c8a72d8815\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richi\.android\build-cache\6d4ded766457bf924f520ea58b70a37945cbca8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richi\.android\build-cache\8c46bdaafc68bb8faa08eb07eae6c9e557aabe36\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richi\.android\build-cache\1b8c59b3368ea86a3039c9937e273db85b564601\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\7157230a37bf43de94b6238bda8f1667f56c647a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\c2f85cb16dd058571d225f0b597abb11185fa6af\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richi\.android\build-cache\2ca91c1c2b557a6fadb40584ecd5e4d053b6470f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richi\.android\build-cache\fc0bb9e909e331fc68f5b56b9f9347c3451d42f5\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:9:9-35
+	android:roundIcon
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:8:9-54
+	android:allowBackup
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.richi.speechtotexttest.MainActivity
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richi\.android\build-cache\a986073ea537cb6d3ce8858472915d86599f6f39\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richi\.android\build-cache\4762901ed42dcb2f5959058dc0bf69c8a72d8815\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richi\.android\build-cache\6d4ded766457bf924f520ea58b70a37945cbca8c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richi\.android\build-cache\8c46bdaafc68bb8faa08eb07eae6c9e557aabe36\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richi\.android\build-cache\1b8c59b3368ea86a3039c9937e273db85b564601\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\7157230a37bf43de94b6238bda8f1667f56c647a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\c2f85cb16dd058571d225f0b597abb11185fa6af\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richi\.android\build-cache\2ca91c1c2b557a6fadb40584ecd5e4d053b6470f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richi\.android\build-cache\fc0bb9e909e331fc68f5b56b9f9347c3451d42f5\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richi\Desktop\Speechtotexttest\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richi\.android\build-cache\a986073ea537cb6d3ce8858472915d86599f6f39\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richi\.android\build-cache\4762901ed42dcb2f5959058dc0bf69c8a72d8815\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richi\.android\build-cache\6d4ded766457bf924f520ea58b70a37945cbca8c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richi\.android\build-cache\8c46bdaafc68bb8faa08eb07eae6c9e557aabe36\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richi\.android\build-cache\1b8c59b3368ea86a3039c9937e273db85b564601\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\7157230a37bf43de94b6238bda8f1667f56c647a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richi\.android\build-cache\c2f85cb16dd058571d225f0b597abb11185fa6af\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richi\.android\build-cache\2ca91c1c2b557a6fadb40584ecd5e4d053b6470f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\AndroidManifest.xml:26:9-47

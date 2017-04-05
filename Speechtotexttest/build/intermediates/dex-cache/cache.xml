@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\fc0bb9e909e331fc68f5b56b9f9347c3451d42f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8ae3ea69b2b62d669e2d9278d04268dc470c73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\8c46bdaafc68bb8faa08eb07eae6c9e557aabe36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_d113011de61298a73cdad81f52104e9b80318913.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bdf8731553c0da26e31ebcb8b9c09d067a383340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\8c46bdaafc68bb8faa08eb07eae6c9e557aabe36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d113011de61298a73cdad81f52104e9b80318913\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\fc0bb9e909e331fc68f5b56b9f9347c3451d42f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_d8ae3ea69b2b62d669e2d9278d04268dc470c73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_bdf8731553c0da26e31ebcb8b9c09d067a383340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_37cfe97c06d8b03773fdf997e77183c39354bbd5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="147bbe36e701d1c6e6b0e8076e8cab47081f85d4">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cb7e318697ad7bbd4c4d212668178d0ba6c24c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_37cfe97c06d8b03773fdf997e77183c39354bbd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\4762901ed42dcb2f5959058dc0bf69c8a72d8815\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_445ae61e93ad9204d09a474d7e9701fce3201141\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_bebe8dabf1f05442bc289b5d3a99c4126901f320.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\6d4ded766457bf924f520ea58b70a37945cbca8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_163dbf1c1bd4182f9f7256da1b063d0ccabc11e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\6d4ded766457bf924f520ea58b70a37945cbca8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_163dbf1c1bd4182f9f7256da1b063d0ccabc11e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\4762901ed42dcb2f5959058dc0bf69c8a72d8815\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_445ae61e93ad9204d09a474d7e9701fce3201141.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\a98d2e32af6b8e99937ce6876fa14d78b8efd756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bebe8dabf1f05442bc289b5d3a99c4126901f320\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\c2f85cb16dd058571d225f0b597abb11185fa6af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_725f0778c298499c2e7b5d99c7a4ccd8a5570870.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\c2f85cb16dd058571d225f0b597abb11185fa6af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_725f0778c298499c2e7b5d99c7a4ccd8a5570870\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\2ca91c1c2b557a6fadb40584ecd5e4d053b6470f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_f3093670a8847e42a05fe18c38b298261a8bf97f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\7157230a37bf43de94b6238bda8f1667f56c647a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1eb67ddeff642da2f2423dd62f25b9d047c3c9af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\2ca91c1c2b557a6fadb40584ecd5e4d053b6470f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3093670a8847e42a05fe18c38b298261a8bf97f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\7157230a37bf43de94b6238bda8f1667f56c647a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_1eb67ddeff642da2f2423dd62f25b9d047c3c9af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\a986073ea537cb6d3ce8858472915d86599f6f39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06ffef922a785f81c64c37ec30e0d555cf2d5b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_01828a941743613cafb8c531926057b1d2abf9a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\a986073ea537cb6d3ce8858472915d86599f6f39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_06ffef922a785f81c64c37ec30e0d555cf2d5b8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\richi\.android\build-cache\1b8c59b3368ea86a3039c9937e273db85b564601\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59a7a1ab7ff24b04d28617d2491fa423687d5519\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.android\build-cache\1b8c59b3368ea86a3039c9937e273db85b564601\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\richi\Desktop\Speechtotexttest\app\build\intermediates\pre-dexed\release\classes_59a7a1ab7ff24b04d28617d2491fa423687d5519.jar" />
+    </item>
+
+</items>
