@@ -1,0 +1,7 @@
+#Thu Apr 06 03:39:47 CST 2017
+base.0=C\:\\Users\\PabloViana\\Projects\\speech-android-sdk-master\\examples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f10580d17d915fa047893d6abe9c19b5efa317db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\PabloViana\\Projects\\speech-android-sdk-master\\examples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_78b6a8014e03517bf920abcc29362ea09dc98734\\classes.dex
+base.1=C\:\\Users\\PabloViana\\Projects\\speech-android-sdk-master\\examples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_78b6a8014e03517bf920abcc29362ea09dc98734
+file.0=C\:\\Users\\PabloViana\\Projects\\speech-android-sdk-master\\examples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f10580d17d915fa047893d6abe9c19b5efa317db\\classes.dex

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\AppData\Local\Android\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_51f3d851b8d1e86c44a36d49975139b9bd10b45b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\jna.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="34342724f2af2d1180c0062d96a7f9846de5f465">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\8\jna_350356e06365213d9e2d086f5e970f49fe8c3637\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\jna.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="34342724f2af2d1180c0062d96a7f9846de5f465">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\jna_350356e06365213d9e2d086f5e970f49fe8c3637.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\java_websocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6bd42be616f8d4516f73eaa0a01a189295075e1a">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\8\java_websocket_511bea542cf9e523ce9384c286a1b7bda58c9f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\java_websocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6bd42be616f8d4516f73eaa0a01a189295075e1a">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\java_websocket_511bea542cf9e523ce9384c286a1b7bda58c9f82.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0bc595901aeb37af3b2d5da8a95a3541fe57ac3a">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f10580d17d915fa047893d6abe9c19b5efa317db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_aa84384d712513423cec799a36f9318d1ea25f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_2bfc5242bfac175e403faab7f3222d148291fcc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-22.0.0_aa84384d712513423cec799a36f9318d1ea25f33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="64c37442ef334c4a140c7051316a84f0f3e8b87b">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_78b6a8014e03517bf920abcc29362ea09dc98734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4be1d7736d7a4a966682e109acddef2fc0554c6f">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\8\commons-io-2.4_24b9a254d788567ad785ec9a33381746e88a7d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\internal_impl-22.0.0_2bfc5242bfac175e403faab7f3222d148291fcc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.0.0_827e417f8fca260ab1fed56466e304c101ebd6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4be1d7736d7a4a966682e109acddef2fc0554c6f">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\commons-io-2.4_24b9a254d788567ad785ec9a33381746e88a7d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\speech-android-sdk-master\speech-android-wrapper\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7020e6a9608584f5b27f0b5c634daa95922059fd">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\speech-android-sdk-master-speech-android-wrapper-unspecified_ac53218e3a43c31826a8f86a8837bc4af7975bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PabloViana\AppData\Local\Android\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\pre-dexed\release\support-annotations-22.0.0_51f3d851b8d1e86c44a36d49975139b9bd10b45b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PabloViana\Projects\speech-android-sdk-master\examples\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_827e417f8fca260ab1fed56466e304c101ebd6e3\classes.dex" />
+    </item>
+
+</items>
